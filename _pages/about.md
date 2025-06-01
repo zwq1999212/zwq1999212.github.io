@@ -15,8 +15,11 @@ You can find my CV here:
 My research interests lie in image segmentation algorithms and their applications to various computer vision tasks, with a focus on:
 
 Medical image segmentation models
+
 Large language models
+
 Machine learning
+
 I am seeking doctoral positions starting Fall 2026. Feel free to reach out via email (zwq@stu.cqu.edu.cn) if there are opportunities aligned with my expertise.
 
 News:
