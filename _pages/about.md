@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Zhao Wenqi's personal homepage"
+title: "Welcome to Wenqi Zhao's Personal Homepage"
 author_profile: true
 redirect_from: 
   - /about/
