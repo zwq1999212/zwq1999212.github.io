@@ -9,7 +9,7 @@ redirect_from:
 
 I am a dedicated and highly motivated graduate student with a master's degree in Computational Mathematics from Chongqing University(https://sci.cqu.edu.cn/), where I worked closely with Prof. shu. Prior to Chongqing University, I received my B.S. in Science in Mathematics from Jiangsu Normal University of China.
 My research interests include Computer Vision, NLP, Partial Differential Equations, and Machine Learning. I have a proven track record of developing innovative solutions in image processing and dialogue systems.
-You can find my CV here: https://zwq1999212.github.io/D:\/CV_Wenqi Zhao .pdf
+You can find my CV here: 
 <a href="https://zwq1999212.github.io/folder/CV_Wenqi%20Zhao.pdf" target="_blank">打开 CV_Wenqi Zhao.pdf</a>
 
 
