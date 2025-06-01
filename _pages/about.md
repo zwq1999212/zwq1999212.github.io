@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduated with a Master's degree in Computational Mathematics from Chongqing University(https://sci.cqu.edu.cn/), where I worked closely with Prof. shu. Prior to Chongqing University, I received my B.S. in Science in Mathematics from Jiangsu Normal University of China.
-My research interest includes Computer Vision, Machine learning. 
+I am a dedicated and highly motivated graduate student with a master's degree in Computational Mathematics from Chongqing University(https://sci.cqu.edu.cn/), where I worked closely with Prof. shu. Prior to Chongqing University, I received my B.S. in Science in Mathematics from Jiangsu Normal University of China.
+My research interests include Computer Vision, NLP, Partial Differential Equations, and Machine Learning. I have a proven track record of developing innovative solutions in image processing and dialogue systems.
 
 A data-driven personal website
 ======
