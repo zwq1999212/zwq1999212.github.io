@@ -11,4 +11,4 @@ paperurl: 'https://zwq1999212.github.io/assets/Robust image segmentation and bia
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Zhao, W., Sang, J., Shu, Y., & Li, D. (2024). Robust image segmentation and bias field correction model based on image structural prior constraint. Expert Systems with Applications, 251, 123961.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+#The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
