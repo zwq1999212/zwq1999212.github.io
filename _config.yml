@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Wenqi Zhao"
 site_theme               : "ZP.png"
-title                    : "Wenqi Zhao's homepage"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
