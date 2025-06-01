@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Zhao Wenqi's personal homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 I am a dedicated and highly motivated graduate student with a master's degree in Computational Mathematics from Chongqing University(https://sci.cqu.edu.cn/), where I worked closely with Prof. shu. Prior to Chongqing University, I received my B.S. in Science in Mathematics from Jiangsu Normal University of China.
-My research interests include Computer Vision, NLP, Partial Differential Equations, and Machine Learning. I have a proven track record of developing innovative solutions in image processing and dialogue systems.
 
 You can find my CV here: 
 <a href="https://zwq1999212.github.io/assets/CV_Wenqi Zhao.pdf" target="_blank">open CV_Wenqi Zhao.pdf</a>
 
+My research interests include Computer Vision, NLP, Partial Differential Equations, and Machine Learning. I have a proven track record of developing innovative solutions in image processing and dialogue systems.
 
 A data-driven personal website
 ======
