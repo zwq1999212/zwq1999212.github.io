@@ -1,7 +1,7 @@
 ---
 title: "Recent Advances on Multi-modal Dialogue Systems: A Survey"
 collection: publications
-category: manuscripts
+category: conferences
 #permalink: /publication/2024-5-01-paper-Recent Advances on Multi-modal Dialogue Systems: A Survey-number-2
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-5-1
