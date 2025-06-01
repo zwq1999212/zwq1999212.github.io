@@ -12,7 +12,12 @@ I am a dedicated and highly motivated graduate student with a master's degree in
 You can find my CV here: 
 <a href="https://zwq1999212.github.io/assets/CV_Wenqi Zhao.pdf" target="_blank">open CV_Wenqi Zhao.pdf</a>
 
-My research interests include Computer Vision, NLP, Partial Differential Equations, and Machine Learning. I have a proven track record of developing innovative solutions in image processing and dialogue systems.
+My research interests lie in image segmentation algorithms and their applications to various computer vision tasks, with a focus on:
+
+Medical image segmentation models
+Large language models
+Machine learning
+I am seeking doctoral positions starting Fall 2026. Feel free to reach out via email (zwq@stu.cqu.edu.cn) if there are opportunities aligned with my expertise.
 
 A data-driven personal website
 ======
