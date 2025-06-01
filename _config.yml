@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Wenqi Zhao"
 site_theme               : "ZP.png"
-title                    : "Master's in Mathematics from Chongqing University"
+title                    : "Wenqi Zhao's homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "ZP.png"
   name             : "Wenqi Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Master's in Mathematics from Chongqing University"
+  bio              : "Wenqi Zhao's homepage"
   location         : "China"
   employer         : 
   uri              : 
