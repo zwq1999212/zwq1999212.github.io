@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * Master of Mathematics in Computational Mathematics, College of Mathematics and Statistics, Chongqing University, 2024
 * Bachelor of Science in Mathematics, College of Mathematics and Statistics, Jiangsu Normal University, 2021
 
@@ -53,6 +52,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Service and leadership
-======
-#* Currently signed in to 43 different slack teams
+
