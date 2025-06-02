@@ -22,7 +22,7 @@ Work experience
     calculus students.
   * Supervisor: Professor Junliang Wu
 
-* Fall 2015: Teaching Assistant
+* Fall 2022: Teaching Assistant
   * Chongqing University
   * Duties included: Designed and led tutorial sessions guiding students to apply probability models and statistical 
   inference methods to solve practical problems, leveraging my expertise in stochastic processes and optimization algorithms.
