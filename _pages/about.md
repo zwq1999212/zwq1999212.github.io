@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a dedicated and highly motivated graduate student with a master's degree in Computational Mathematics from Chongqing University(https://sci.cqu.edu.cn/), where I worked closely with Prof. shu. Prior to Chongqing University, I received my B.S. in Science in Mathematics from Jiangsu Normal University of China.
+I am a dedicated and highly motivated graduate student with a master's degree in Mathematics from Chongqing University (https://sci.cqu.edu.cn/), advised by Dr. Yonglu Shu, co-advised by Dr. Dong Li, and Dr. Chuanjiang He. Prior to Chongqing University, I received my B.S. in Mathematics from Jiangsu Normal University of China.
 
 You can find my CV here: 
 <a href="https://zwq1999212.github.io/assets/CV_Wenqi Zhao.pdf" target="_blank">open CV_Wenqi Zhao.pdf</a>
 
-My research interests lie in image segmentation algorithms and their applications to various computer vision tasks, with a focus on:
+My research interests lie in image processing algorithms and their applications to various computer vision tasks, with a focus on:
 
-Medical image segmentation models
+Medical Image Analysis and Processing
 
-Large language models
+Computing Methodologies
 
 Machine learning
 
