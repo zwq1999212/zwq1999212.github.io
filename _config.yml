@@ -32,7 +32,8 @@ author:
   email            : "zwq@stu.cqu.edu.cn" 
 
   # Academic websites
-  academia         :  "https://github.com/zwq1999212"
+  academia         : #
+  github           : "https://github.com/zwq1999212"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=UwtVtOQAAAAJ"
   impactstory      : # URL
