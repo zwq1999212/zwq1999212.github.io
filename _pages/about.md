@@ -12,9 +12,9 @@ I am a dedicated and highly motivated graduate student with a master's degree in
 You can find my CV here: 
 <a href="https://zwq1999212.github.io/assets/CV_Wenqi Zhao2.pdf" target="_blank">open CV_Wenqi Zhao.pdf</a>
 
-My research interests lie in image processing algorithms and their applications to various computer vision tasks, with a focus on:
+My work spans algorithm design and applied mathematics for computational imaging and computer vision, including but not limited to:
 
-Medical Image Analysis and Processing
+Medical Image Analysis
 
 Computing Methodologies
 
@@ -22,9 +22,9 @@ Machine learning
 
 I am seeking doctoral positions starting Fall 2026. Feel free to reach out via email (zwq@stu.cqu.edu.cn) if there are opportunities aligned with my expertise.
 
-News:
+Recent Work:
 ======
-1.Our paper"RefLSM: Reflectance-based Level Set Model for Medical Image Segmentation in the Presence of Severe Intensity Inhomogeneity". Submitted to Transactions on image processing
+RefLSM: Reflectance-based Level Set Model for Medical Image Segmentation in the Presence of Severe Intensity Inhomogeneity. Submitted to IEEE Transactions on Image Processing, 2025.
 
 
 
