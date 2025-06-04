@@ -24,7 +24,7 @@ I am seeking doctoral positions starting Fall 2026. Feel free to reach out via e
 
 Recent Work:
 ======
-RefLSM: Reflectance-based Level Set Model for Medical Image Segmentation in the Presence of Severe Intensity Inhomogeneity. Submitted to IEEE Transactions on Image Processing, 2025.
+RefLSM: Reflectance-based Level Set Model for Medical Image Segmentation in the Presence of Severe Intensity Inhomogeneity. Submitted to IEEE Transactions on Image Processing, 2025(In Peer Review).
 
 
 
