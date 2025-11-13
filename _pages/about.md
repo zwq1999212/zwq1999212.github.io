@@ -27,7 +27,8 @@ redirect_from:
 <h2>Research Highlights</h2>
 <p>My primary research focuses on building robust, interpretable, and efficient AI models for medical computer vision and clinical decision support. Below are my first-author works.</p>
 
-<hr> <h3>AI Agents for Medicine: A Comprehensive Review</h3>
+<hr> <h3>AI Agents for Medicine: A Comprehensive Review of Architectures,
+Cognitive Modules, and Clinical Workflows</h3>
 <p>
     I led a comprehensive review on medical AI agents, defining a new taxonomy for cognitive architectures and mapping components to clinical workflows.
 </p>
@@ -39,15 +40,11 @@ redirect_from:
 
 <hr> <h3>RefLSM: Linearized Structural-Prior Reflectance Model for Medical Image
 Segmentation and Bias-Field Correction</h3>
-
+<img src="images/ESWA-picture.png" alt="ESWA Robust Image Segmentation results" style="float: right; width: 50%; max-width: 100%; border-radius: 8px; margin-left: 20px;"/>
 <p>
-    I developed a novel Retinex-based variational framework that achieved new <strong>State-of-the-Art (SOTA)</strong> results on the dataset, scoring a mean Dice of <strong>0.9305</strong> and Precision of <strong>0.9787</strong>.
+    This paper presents RefLSM, a novel model that directly segments the illumination-invariant reflectance of an image, using a new linear structural prior to ensure robust segmentation in noisy, low-contrast medical scenes.
 </p>
 <p>
-    <strong>[ <a href="#">ArXiv (PDF)</a> ]</strong>
-    &nbsp;&nbsp;
-    <strong>[ <a href="[your_github_repo_link]">Code (GitHub)</a> ]</strong>
-    &nbsp;&nbsp;
     <em> Pattern Recognition (under review) (2025).</em>
 </p>
 
