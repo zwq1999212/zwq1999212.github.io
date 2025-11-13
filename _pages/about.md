@@ -7,20 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a dedicated and highly motivated graduate student with a master's degree in Mathematics from Chongqing University (https://sci.cqu.edu.cn/), advised by Dr. Yonglu Shu, co-advised by Dr. Dong Li, and Dr. Chuanjiang He. Prior to Chongqing University, I received my B.S. in Mathematics from Jiangsu Normal University of China.
+<p>I am a graduate researcher at Chongqing University (CQU), advised by Dr. Yonglu Shu and Dr. Dong Li.</p>
 
-You can find my CV here: 
-<a href="https://zwq1999212.github.io/assets/CV_Wenqi Zhao2.pdf" target="_blank">open CV_Wenqi Zhao.pdf</a>
+<p>I am currently a <strong>Remote Research Assistant</strong> at <strong>Emory University School of Medicine</strong> (Dept. of Radiation Oncology), advised by <strong>Dr. Xiaofeng Yang</strong>, where my work focuses on developing AI agents for clinical workflows.</p>
 
-My work spans algorithm design and applied mathematics for computational imaging and computer vision, including but not limited to:
+<p>My research lies at the intersection of AI and medicine. My interests include:
+<ul>
+    <li>AI Agents for Healthcare</li>
+    <li>Medical Computer Vision</li>
+    <li>Clinical Decision Support</li>
+    <li>Responsible AI</li>
+</ul>
+</p>
 
-Medical Image Analysis
+<p>You can find my CV here: <a href="CV_Wenqi_Zhao.pdf"><strong>[open CV_Wenqi Zhao.pdf]</strong></a></p>
 
-Computing Methodologies
-
-Machine learning
-
-I am seeking doctoral positions starting Fall 2026. Feel free to reach out via email (zwq@stu.cqu.edu.cn) if there are opportunities aligned with my expertise.
+<p><strong>I am actively seeking Ph.D. positions starting Fall 2026.</strong> Please feel free to reach out via email (zwq@stu.cqu.edu.cn) if you are looking for students with my research expertise.</p>
 
 Recent Work:
 ======
