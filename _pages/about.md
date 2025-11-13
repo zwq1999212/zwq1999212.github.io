@@ -50,31 +50,22 @@ redirect_from:
     <em>Submitted to IEEE Transactions on Image Processing (2025).</em>
 </p>
 
-<hr> <h3>Robust image segmentation and bias field correction model based on image
+<hr>
+<h3>Robust image segmentation and bias field correction model based on image
 structural prior constraint</h3>
 
 <p style="text-align: right;">
-  <img src="/files/images/ESWA-picture.png" alt="ESWA Robust Image Segmentation results" style="width: 50%; max-width: 100%; border-radius: 8px;"/>
+  <img src="images/ESWA-picture.png" alt="ESWA Robust Image Segmentation results" style="width: 50%; max-width: 100%; border-radius: 8px;"/>
 </p>
 
 <p>
-    I <strong>independently conceptualized, designed, and led</strong> this project, which proposed a novel variational model using a <strong>spatial structural prior</strong> to correct bias fields.
+I proposed an innovative variational model with spatial structural priors, and validated its robustness on diverse medical and synthetic images via extensive comparative experiments.
 </p>
 <p>
-    Our model achieved new <strong>State-of-the-Art (SOTA)</strong> results. On real-world image benchmarks (Fig. 4), our model scored:
-    <ul>
-        <li><strong>Mean Dice: 0.9709</strong> (vs. 0.8818 for the LBF baseline) </li>
-        <li><strong>Mean IoU: 0.9441</strong> (vs. 0.7925 for the LBF baseline) </li>
-        <li><strong>Mean CPU Time: 2.53s</strong> (<strong>4.1x faster</strong> than the DRLSE-ADMM baseline's 6.57s) </li>
-    </ul>
+    <strong>[ <a href="[your_paper_link_or_pdf]">Published Paper</a> ]</strong>
+    &nbsp;&nbsp;
+    <em>Published in Expert Systems with Applications (2024).</em>
 </p>
 
-<p>
-    <strong>[ <a href="#">Published Paper</a> ]</strong>
-    &nbsp;&nbsp;
-    <strong>[ <a href="#">Code (GitHub)</a> ]</strong>
-    &nbsp;&nbsp;
-    <em>Published in Expert Systems with Applications (2024)[cite: 283].</em>
-</p>
 
 
