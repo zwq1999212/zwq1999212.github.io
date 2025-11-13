@@ -24,9 +24,42 @@ redirect_from:
 
 <p><strong>I am actively seeking Ph.D. positions starting Fall 2026.</strong> Please feel free to reach out via email (zwq@stu.cqu.edu.cn) if you are looking for students with my research expertise.</p>
 
-Recent Work:
-======
-RefLSM: Reflectance-based Level Set Model for Medical Image Segmentation in the Presence of Severe Intensity Inhomogeneity. Submitted to IEEE Transactions on Image Processing, 2025(In Peer Review).
+<h2>Research Highlights</h2>
+<p>My primary research focuses on building robust, interpretable, and efficient AI models for medical computer vision and clinical decision support. Below are my first-author works.</p>
 
+<hr> <h3>AI Agents for Medicine: A Comprehensive Review</h3>
+<p>
+    I led a comprehensive review on medical AI agents, defining a new taxonomy for cognitive architectures and mapping components to clinical workflows.
+</p>
+<p>
+    <strong>[ <a href="#">ArXiv (PDF)</a> ]</strong>
+    &nbsp;&nbsp;
+    <em>Submitted to Medical Image Analysis (2025).</em>
+</p>
+
+<hr> <h3>RefLSM: Reflectance-based Level Set Model for Medical Image Segmentation</h3>
+
+<p>
+    I developed a novel Retinex-based variational framework that achieved new <strong>State-of-the-Art (SOTA)</strong> results on the dataset, scoring a mean Dice of <strong>0.9305</strong> and Precision of <strong>0.9787</strong>.
+</p>
+<p>
+    <strong>[ <a href="#">ArXiv (PDF)</a> ]</strong>
+    &nbsp;&nbsp;
+    <strong>[ <a href="[your_github_repo_link]">Code (GitHub)</a> ]</strong>
+    &nbsp;&nbsp;
+    <em>Submitted to IEEE Transactions on Image Processing (2025).</em>
+</p>
+
+<hr> <h3>Robust Image Segmentation and Bias Field Correction Model</h3>
+<p>
+    I independently conceptualized, designed, and led this project, resulting in a publication. The model demonstrated <strong>[X.X]% higher robustness</strong> against non-uniform illumination compared to SOTA baselines (e.g., LBF Model).
+</p>
+<p>
+    <strong>[ <a href="[your_paper_link_or_pdf]">Published Paper</a> ]</strong>
+    &nbsp;&nbsp;
+    <strong>[ <a href="[your_github_repo_link]">Code (GitHub)</a> ]</strong>
+    &nbsp;&nbsp;
+    <em>Published in Expert Systems with Applications (2024).</em>
+</p>
 
 
