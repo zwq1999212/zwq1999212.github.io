@@ -33,7 +33,9 @@ redirect_from:
 <p><strong>I am actively seeking Ph.D. positions starting Fall 2026.</strong> Please feel free to reach out via email (zwq@stu.cqu.edu.cn) if you are looking for students with my research expertise.</p>
 
 <h2>Research Highlights</h2>
-<p>My primary research focuses on building robust, interpretable, and efficient AI models for medical computer vision and clinical decision support. Below are my first-author works.</p>
+<h3>Research Highlights</h3>
+<p>My primary research focuses on AI models for medical applications, including robust and efficient techniques for <strong>medical image segmentation</strong> and comprehensive reviews on <strong>AI agents in medicine</strong>, focusing on their integration into clinical workflows. Below are my first-author works.</p>
+
 
 <hr> <h3>AI Agents for Medicine: A Comprehensive Review of Architectures,
 Cognitive Modules, and Clinical Workflows</h3>
@@ -65,10 +67,11 @@ Segmentation and Bias-Field Correction</h3>
     I proposed an innovative variational model with spatial structural priors, and validated its robustness on diverse medical and synthetic images via extensive comparative experiments.
 </p>
 <p>
-    <strong>[ <a href="[your_paper_link_or_pdf]">Published Paper</a> ]</strong>
+    <strong>[ <a href="https://zwq1999212.github.io/assets/Robust%20image%20segmentation%20and%20bias%20field%20correction%20model%20based%20on%20image.pdf" target="_blank">Published Paper</a> ]</strong>
     &nbsp;&nbsp;
     <em>Published in Expert Systems with Applications (2024).</em>
 </p>
+
 
 
 
