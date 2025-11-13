@@ -9,7 +9,15 @@ redirect_from:
 
 <p>I am a graduate researcher at Chongqing University (CQU), advised by Dr. Yonglu Shu and Dr. Dong Li.</p>
 
-<p>I am currently a <strong>Remote Research Assistant</strong> at <strong>Emory University School of Medicine</strong> (Dept. of Radiation Oncology), advised by <strong>Dr. Xiaofeng Yang</strong>, where my work focuses on developing AI agents for clinical workflows.</p>
+<p>
+    I am currently a <strong>Remote Research Assistant</strong> at <strong>Emory University</strong>, with a joint affiliation in the
+    <strong>Department of Computer Science and Informatics</strong> and the
+    <strong>Department of Radiation Oncology</strong> (School of Medicine).
+</p>
+
+<p>
+    I am advised by <strong>Dr. Xiaofeng Yang</strong>, and my research focuses on developing AI agents for clinical workflows.
+</p>
 
 <p>My research lies at the intersection of AI and medicine. My interests include:
 <ul>
