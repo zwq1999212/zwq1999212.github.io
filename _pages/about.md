@@ -37,16 +37,23 @@ redirect_from:
 <p>My primary research focuses on AI models for medical applications, including robust and efficient techniques for <strong>medical image segmentation</strong> and comprehensive reviews on <strong>AI agents in medicine</strong>, focusing on their integration into clinical workflows. Below are my first-author works.</p>
 
 
-<hr> <h3>AI Agents for Medicine: A Comprehensive Review of Architectures,
+<hr> 
+<h3>AI Agents for Medicine: A Comprehensive Review of Architectures,
 Cognitive Modules, and Clinical Workflows</h3>
+
 <p>
     I led a comprehensive review on medical AI agents, defining a new taxonomy for cognitive architectures and mapping components to clinical workflows.
 </p>
-<p>
+
+<!-- <p>
     <strong>[ <a href="#">ArXiv (PDF)</a> ]</strong>
     &nbsp;&nbsp;
+</p> -->
+
+<p>
     <em>Submitted to Medical Image Analysis (2025).</em>
 </p>
+
 
 <hr> <h3>RefLSM: Linearized Structural-Prior Reflectance Model for Medical Image
 Segmentation and Bias-Field Correction</h3>
