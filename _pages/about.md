@@ -37,7 +37,8 @@ redirect_from:
     <em>Submitted to Medical Image Analysis (2025).</em>
 </p>
 
-<hr> <h3>RefLSM: Reflectance-based Level Set Model for Medical Image Segmentation</h3>
+<hr> <h3>RefLSM: Linearized Structural-Prior Reflectance Model for Medical Image
+Segmentation and Bias-Field Correction</h3>
 
 <p>
     I developed a novel Retinex-based variational framework that achieved new <strong>State-of-the-Art (SOTA)</strong> results on the dataset, scoring a mean Dice of <strong>0.9305</strong> and Precision of <strong>0.9787</strong>.
@@ -47,25 +48,23 @@ redirect_from:
     &nbsp;&nbsp;
     <strong>[ <a href="[your_github_repo_link]">Code (GitHub)</a> ]</strong>
     &nbsp;&nbsp;
-    <em>Submitted to IEEE Transactions on Image Processing (2025).</em>
+    <em> Pattern Recognition (under review) (2025).</em>
 </p>
 
 <hr>
-<h3>Robust image segmentation and bias field correction model based on image
-structural prior constraint</h3>
+<h3>Robust image segmentation and bias field correction model based on image structural prior constraint</h3>
 
-<p style="text-align: right;">
-  <img src="images/ESWA-picture.png" alt="ESWA Robust Image Segmentation results" style="width: 50%; max-width: 100%; border-radius: 8px;"/>
-</p>
+<img src="images/ESWA-picture.png" alt="ESWA Robust Image Segmentation results" style="float: right; width: 50%; max-width: 100%; border-radius: 8px; margin-left: 20px;"/>
 
 <p>
-I proposed an innovative variational model with spatial structural priors, and validated its robustness on diverse medical and synthetic images via extensive comparative experiments.
+    I proposed an innovative variational model with spatial structural priors, and validated its robustness on diverse medical and synthetic images via extensive comparative experiments.
 </p>
 <p>
     <strong>[ <a href="[your_paper_link_or_pdf]">Published Paper</a> ]</strong>
     &nbsp;&nbsp;
     <em>Published in Expert Systems with Applications (2024).</em>
 </p>
+
 
 
 
