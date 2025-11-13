@@ -52,7 +52,7 @@ redirect_from:
 
 <hr> <h3>Robust Image Segmentation and Bias Field Correction Model</h3>
 
-<img src="/files/ESWA-picture.png" alt="ESWA Robust Image Segmentation results" style="width: 700px; max-width: 100%; border-radius: 8px;"/>
+<img src="/ESWA-picture.png" alt="ESWA Robust Image Segmentation results" style="width: 700px; max-width: 100%; border-radius: 8px;"/>
 
 <p>
     I independently conceptualized, designed, and led this project, resulting in a publication. The model demonstrated <strong>[X.X]% higher robustness</strong> against non-uniform illumination compared to SOTA baselines (e.g., LBF Model).
