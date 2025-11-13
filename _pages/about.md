@@ -40,7 +40,7 @@ Cognitive Modules, and Clinical Workflows</h3>
 
 <hr> <h3>RefLSM: Linearized Structural-Prior Reflectance Model for Medical Image
 Segmentation and Bias-Field Correction</h3>
-<img src="images/ESWA-picture.png" alt="ESWA Robust Image Segmentation results" style="float: right; width: 50%; max-width: 100%; border-radius: 8px; margin-left: 20px;"/>
+<img src="images/PR-picture.png" alt=" Image Segmentation results" style="float: right; width: 50%; max-width: 100%; border-radius: 8px; margin-left: 20px;"/>
 <p>
     This paper presents RefLSM, a novel model that directly segments the illumination-invariant reflectance of an image, using a new linear structural prior to ensure robust segmentation in noisy, low-contrast medical scenes.
 </p>
