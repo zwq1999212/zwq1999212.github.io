@@ -7,26 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-<p>I am a graduate researcher at Chongqing University (CQU), advised by Dr. Yonglu Shu and Dr. Dong Li.</p>
+<p>I am a graduate researcher at Chongqing University (CQU), advised by Prof. Yonglu Shu and Prof. Dong Li.</p>
 
 <p>
-    I am currently a <strong>Remote Research Assistant</strong> at <strong>Emory University</strong>, with a joint affiliation in the
-    <strong>Department of Computer Science and Informatics</strong> and the
-    <strong>Department of Radiation Oncology</strong> (School of Medicine).
+    I am currently a <strong>Remote Research Assistant</strong> at <strong>Emory University</strong>, jointly affiliated with the <strong>Department of Computer Science and Informatics</strong> and the <strong>Department of Radiation Oncology</strong> (School of Medicine), advised by <strong>Prof. Xiaofeng Yang</strong>.
 </p>
 
 <p>
-    I am advised by <strong>Dr. Xiaofeng Yang</strong>, and my research focuses on developing AI agents for clinical workflows.
+    My research spans both AI in healthcare and foundational AI techniques. I am involved in reviewing AI agents in medicine, particularly their integration into clinical workflows, while also developing real-world AI agent architectures. I aim to advance AI both in theory and in practical applications, particularly in healthcare.
 </p>
 
-<p>My research lies at the intersection of AI and medicine. My interests include:
-<ul>
-    <li>AI Agents for Healthcare</li>
-    <li>Medical Computer Vision</li>
-    <li>Clinical Decision Support</li>
-    <li>Responsible AI</li>
-</ul>
+<p>
+    My research interests include:
+    <ul>
+        <li>AI Agents and Multi-Agent Systems</li>
+        <li>Medical Computer Vision and Decision Support</li>
+        <li>Responsible AI for Healthcare</li>
+        <li>AI Algorithm Design and Theoretical Foundations</li>
+    </ul>
 </p>
+
 
 <p>You can find my CV here: <a href="CV_Wenqi.pdf"><strong>[open CV_Wenqi.pdf]</strong></a></p>
 
