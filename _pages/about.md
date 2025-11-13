@@ -28,7 +28,7 @@ redirect_from:
 </ul>
 </p>
 
-<p>You can find my CV here: <a href="CV_Wenqi_Zhao.pdf"><strong>[open CV_Wenqi Zhao.pdf]</strong></a></p>
+<p>You can find my CV here: <a href="CV_Wenqi.pdf"><strong>[open CV_Wenqi Zhao.pdf]</strong></a></p>
 
 <p><strong>I am actively seeking Ph.D. positions starting Fall 2026.</strong> Please feel free to reach out via email (zwq@stu.cqu.edu.cn) if you are looking for students with my research expertise.</p>
 
