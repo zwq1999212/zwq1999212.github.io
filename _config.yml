@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Wenqi Zhao"
-site_theme               : "ZP.png"
+site_theme               : "zwq.png"
 title                    : "Wenqi Zhao's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
