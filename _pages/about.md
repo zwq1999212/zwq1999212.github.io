@@ -14,16 +14,16 @@ redirect_from:
 </p>
 
 <p>
-    My research spans both AI in healthcare and foundational AI techniques. I am involved in reviewing AI agents in medicine, particularly their integration into clinical workflows, while also developing real-world AI agent architectures. I aim to advance AI both in theory and in practical applications, particularly in healthcare.
+   My work lies at the intersection of medical imaging and AI for healthcare. I develop optimization and physics guided models for robust medical image analysis, especially segmentation and bias or illumination correction, and design AI agents that safely interact with clinical data and workflows.
 </p>
 
 <p>
     My research interests include:
     <ul>
-        <li>AI Agents and Multi-Agent Systems</li>
-        <li>Medical Computer Vision and Decision Support</li>
-        <li>Responsible AI for Healthcare</li>
-        <li>AI Algorithm Design and Theoretical Foundations</li>
+        <li>Medical image computing: segmentation, reconstruction, registration, bias field and illumination correction</li>
+        <liAI agents in healthcare: tool using and workflow aware agents for clinical decision support</li>
+        <li>Multimodal clinical machine learning: combining images, reports, and structured clinical data</li>
+        <li>Reliable machine learning for medicine: robustness, uncertainty, and interpretable, optimization inspired models</li>
     </ul>
 </p>
 
