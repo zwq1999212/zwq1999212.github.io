@@ -10,7 +10,7 @@ redirect_from:
 <p>I am a graduate researcher at Chongqing University (CQU), advised by Prof. Yonglu Shu and Prof. Dong Li.</p>
 
 <p>
-    I am currently a <strong>Remote Research Assistant</strong> at <strong>Emory University</strong>, jointly affiliated with the <strong>Department of Computer Science and Informatics</strong> and the <strong>Department of Radiation Oncology</strong> (School of Medicine), advised by <strong>Prof. Xiaofeng Yang</strong>.
+    I am currently a <strong> Research Assistant</strong> at <strong>Emory University</strong>, jointly affiliated with the <strong>Department of Computer Science and Informatics</strong> and the <strong>Department of Radiation Oncology</strong> (School of Medicine), advised by <strong>Prof. Xiaofeng Yang</strong>.
 </p>
 
 <p>
@@ -44,14 +44,18 @@ Cognitive Modules, and Clinical Workflows</h3>
     I led a comprehensive review on medical AI agents, defining a new taxonomy for cognitive architectures and mapping components to clinical workflows.
 </p>
 
-<!-- <p>
-    <strong>[ <a href="#">ArXiv (PDF)</a> ]</strong>
-    &nbsp;&nbsp;
-</p> -->
+<p>
+    <strong>[ 
+        <a href="assets/preprint.pdf" target="_blank" rel="noopener noreferrer">
+            PDF
+        </a> 
+    ]</strong>
+</p>
 
 <p>
     <em>Submitted to Medical Image Analysis (2025).</em>
 </p>
+
 
 
 <hr> <h3>RefLSM: Linearized Structural-Prior Reflectance Model for Medical Image
