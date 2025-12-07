@@ -21,7 +21,7 @@ redirect_from:
     My research interests include:
     <ul>
         <li>Medical image computing: segmentation, reconstruction, registration, bias field and illumination correction</li>
-        <liAI agents in healthcare: tool using and workflow aware agents for clinical decision support</li>
+        <li>AI agents in healthcare: tool using and workflow aware agents for clinical decision support</li>
         <li>Multimodal clinical machine learning: combining images, reports, and structured clinical data</li>
         <li>Reliable machine learning for medicine: robustness, uncertainty, and interpretable, optimization inspired models</li>
     </ul>
