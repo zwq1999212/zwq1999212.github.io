@@ -71,6 +71,13 @@ Segmentation and Bias-Field Correction</h3>
     This paper presents RefLSM, a novel model that directly segments the illumination-invariant reflectance of an image, using a new linear structural prior to ensure robust segmentation in noisy, low-contrast medical scenes.
 </p>
 <p>
+    <strong>[ 
+        <a href="assets/PR.pdf" target="_blank" rel="noopener noreferrer">
+            PDF
+        </a> 
+    ]</strong>
+</p>
+<p>
     <em> Pattern Recognition (under review) (2025).</em>
 </p>
 
