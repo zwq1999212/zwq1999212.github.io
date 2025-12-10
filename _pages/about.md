@@ -32,6 +32,12 @@ redirect_from:
 
 <p><strong>I am actively seeking Ph.D. positions starting Fall 2026.</strong> Please feel free to reach out via email (zwq@stu.cqu.edu.cn) if you are looking for students with my research expertise.</p>
 
+<h2>News</h2>
+<ul>
+  <li>Dec 2025: Invited online research talk “Physics-aware Medical Image Segmentation and AI Agents in Medicine” at Prof. Lei Xing’s lab, Stanford University.</li>
+</ul>
+
+
 <h2>Research Highlights</h2>
 <p>My primary research focuses on AI models for medical applications, including robust and efficient techniques for <strong>medical image segmentation</strong> and comprehensive reviews on <strong>AI agents in medicine</strong>, focusing on their integration into clinical workflows. Below are my first-author works.</p>
 
