@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>I am a graduate researcher at Chongqing University (CQU), advised by Prof. Yonglu Shu and Prof. Dong Li.</p>
-
-<p>
-    I am currently a <strong> Research Assistant</strong> at <strong>Emory University</strong>, jointly affiliated with the <strong>Department of Computer Science and Informatics</strong> and the <strong>Department of Radiation Oncology</strong> (School of Medicine), advised by <strong>Prof. Xiaofeng Yang</strong>.
-</p>
+<p>I am a research assistant in Prof. Yang Lu’s group at the University of Wisconsin–Madison, working on representation learning for biomedical data. I also collaborate with Prof. Xiaofeng Yang at the University of Chicago on medical AI.</p>
 
 <p>
    My work lies at the intersection of medical imaging and AI for healthcare. I develop optimization and physics guided models for robust medical image analysis, especially segmentation and bias or illumination correction, and design AI agents that safely interact with clinical data and workflows.
