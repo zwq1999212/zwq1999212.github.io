@@ -11,7 +11,7 @@ redirect_from:
 
 <p>My research interests include mathematical modeling and machine learning, with applications in medical imaging and biomedical data analysis. My current work focuses on representation learning for high-dimensional data, particularly relationships between samples and features.</p>
 
-<p>You can find my CV here: <a href="assets/CV_Wenqi.pdf"><strong>[open CV_Wenqi.pdf]</strong></a></p>
+<p>You can find my CV here: <a href="/assets/CV_Wenqi_2026-11-15.pdf"><strong>CV (PDF)</strong></a></p>
 
 <p><strong>I am seeking PhD opportunities starting in Fall 2027.</strong> Please feel free to <a href="mailto:zwq@stu.cqu.edu.cn">contact me</a> if you think my background could be a good fit for your group.</p>
 
