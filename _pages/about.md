@@ -9,20 +9,7 @@ redirect_from:
 
 <p>I am a research assistant in Prof. Yang Lu’s group at the University of Wisconsin–Madison, working on representation learning for biomedical data. I also collaborate with Prof. Xiaofeng Yang at the University of Chicago on medical AI.</p>
 
-<p>
-   My work lies at the intersection of medical imaging and AI for healthcare. I develop optimization and physics guided models for robust medical image analysis, especially segmentation and bias or illumination correction, and design AI agents that safely interact with clinical data and workflows.
-</p>
-
-<p>
-    My research interests include:
-    <ul>
-        <li>Medical image computing: segmentation, reconstruction, registration, bias field and illumination correction</li>
-        <li>AI agents in healthcare: tool using and workflow aware agents for clinical decision support</li>
-        <li>Multimodal clinical machine learning: combining images, reports, and structured clinical data</li>
-        <li>Reliable machine learning for medicine: robustness, uncertainty, and interpretable, optimization inspired models</li>
-    </ul>
-</p>
-
+<p>My research interests include mathematical modeling and machine learning, with applications in medical imaging and biomedical data analysis. My current work focuses on representation learning for high-dimensional data, particularly relationships between samples and features.</p>
 
 <p>You can find my CV here: <a href="assets/CV_Wenqi.pdf"><strong>[open CV_Wenqi.pdf]</strong></a></p>
 
