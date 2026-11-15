@@ -7,43 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<p><a href="{{ '/assets/CV_Wenqi.pdf' | relative_url }}?v=20261115" target="_blank" rel="noopener noreferrer">Open CV (PDF)</a></p>
 
-Education
-======
-* Master of Mathematics in Computational Mathematics, College of Mathematics and Statistics, Chongqing University, 2024
-* Bachelor of Science in Mathematics, College of Mathematics and Statistics, Jiangsu Normal University, 2021
-
-Work experience
-======
-* Spring 2023: Teaching Assistant
-  * Chongqing University
-  * Duties includes: Assisted professors in designing and administering weekly problem sets and examinations for 100+ 
-    calculus students.
-  * Supervisor: Professor Junliang Wu
-
-* Fall 2022: Teaching Assistant
-  * Chongqing University
-  * Duties included: Designed and led tutorial sessions guiding students to apply probability models and statistical 
-  inference methods to solve practical problems, leveraging my expertise in stochastic processes and optimization algorithms.
-  * Supervisor: Professor Junliang Wu
-  
-Skills
-======
-* Matlab
-* C/C++
-* python
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
+<object data="{{ '/assets/CV_Wenqi.pdf' | relative_url }}?v=20261115" type="application/pdf" width="100%" height="1000" aria-label="Wenqi Zhao's curriculum vitae">
+  <p><a href="{{ '/assets/CV_Wenqi.pdf' | relative_url }}?v=20261115">View the CV as a PDF.</a></p>
+</object>
