@@ -13,7 +13,7 @@ redirect_from:
 
 <p>You can find my CV here: <a href="assets/CV_Wenqi.pdf"><strong>[open CV_Wenqi.pdf]</strong></a></p>
 
-<p><strong>I am actively seeking Ph.D. positions starting Fall 2026.</strong> Please feel free to reach out via email (zwq@stu.cqu.edu.cn) if you are looking for students with my research expertise.</p>
+<p><strong>I am seeking PhD opportunities starting in Fall 2027.</strong> Please feel free to <a href="mailto:zwq@stu.cqu.edu.cn">contact me</a> if you think my background could be a good fit for your group.</p>
 
 <h2>News</h2>
 <ul>
