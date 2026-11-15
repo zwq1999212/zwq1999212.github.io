@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="{{ '/assets/css/profile-v2.css' | relative_url }}">
 <header class="top"><a class="brand" href="/">Wenqi Zhao</a><nav aria-label="Main navigation">{% for item in site.data.navigation.main %}<a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="active" aria-current="page"{% endif %}>{{ item.title }}</a>{% endfor %}</nav></header>
 <div class="layout" id="wenqi-about">
-<aside><img src="/images/zwq.png" alt="Wenqi Zhao"><h1>Wenqi Zhao</h1><p class="role">Research Assistant<br>University of Wisconsin–Madison</p><div class="links"><a href="mailto:zwq@stu.cqu.edu.cn">Email</a><a href="https://scholar.google.com/citations?user=UwtVtOQAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a><a href="https://github.com/zwq1999212" target="_blank" rel="noopener noreferrer">GitHub</a></div></aside>
+<aside><img src="/images/wenqi-profile-2026-11-15.jpg" alt="Wenqi Zhao"><h1>Wenqi Zhao</h1><p class="role">Research Assistant<br>University of Wisconsin–Madison</p><div class="links"><a href="mailto:zwq@stu.cqu.edu.cn">Email</a><a href="https://scholar.google.com/citations?user=UwtVtOQAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a><a href="https://github.com/zwq1999212" target="_blank" rel="noopener noreferrer">GitHub</a></div></aside>
 <main{% if page.url != "/" %} class="document"{% endif %}>{% if page.url != "/" %}<h1 class="page-heading">{{ page.title }}</h1>{% endif %}{{ content }}</main></div>
 <footer>© 2026 Wenqi Zhao</footer>
 </div>
